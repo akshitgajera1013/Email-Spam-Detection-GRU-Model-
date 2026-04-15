@@ -8,6 +8,17 @@
 
 DEployment Link :- https://dqb6xwr2idozql2boyjf9f.streamlit.app/
 
+
+#UI
+
+![Output](images/1.png)
+
+![Output](images/2.png)
+
+![Output](images/3.png)
+
+
+
 ## 📌 Project Overview
 **ThreatNet** is an enterprise-grade Natural Language Processing (NLP) dashboard designed for automated cyber threat analysis and spam detection. Powered by a **Gated Recurrent Unit (GRU)** neural network, the system intercepts text payloads (emails, SMS, broadcasts), tokenizes the linguistic sequences, and executes a forward pass to classify the communication as either **Safe (Ham)** or **Malicious (Spam)**.
 
