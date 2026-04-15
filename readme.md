@@ -6,8 +6,9 @@
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000.svg)
 
 
-DEployment Link :- https://dqb6xwr2idozql2boyjf9f.streamlit.app/
+Deployment Link :- https://dqb6xwr2idozql2boyjf9f.streamlit.app/
 
+Dataset Lik :- https://drive.google.com/file/d/1OkRvr3Ers5LuzmLlMorvZ8xGJmtt9r3U/view?usp=drive_link
 
 #UI
 
