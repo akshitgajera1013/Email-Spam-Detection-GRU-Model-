@@ -1,0 +1,12 @@
+# UI & Dashboard Framework
+streamlit>=1.24.0
+
+# Data Manipulation & Array Math
+pandas>=1.5.3
+numpy>=1.23.5
+
+# Machine Learning & Deep Learning Backend (CPU optimized for Cloud Deployment)
+tensorflow-cpu>=2.13.0
+
+# Interactive Data Visualization
+plotly>=5.14.0
